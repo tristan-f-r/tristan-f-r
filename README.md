@@ -8,3 +8,8 @@ mini projects:
 - https://leodog896.github.io/duckshow slideshow of ducks and other animals
 - https://leodog896.github.io/allergitaves a comprehensive list of different wordings for allergins. (mainly palm oil) 
 - https://leodog896.github.io/reaction small reaction app to count your reaction speed
+
+## contact
+
+You can find me at my discord (LeoDog896#0675)
+or at leodog896@gmail.com
