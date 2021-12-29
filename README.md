@@ -8,6 +8,7 @@ mini projects:
 - https://leodog896.github.io/duckshow slideshow of ducks and other animals
 - https://leodog896.github.io/allergitaves a comprehensive list of different wordings for allergins. (mainly palm oil) 
 - https://leodog896.github.io/reaction small reaction app to count your reaction speed
+- https://github.com/LeoDog896/MCInstall install MultiMC on linux (only for fedora kde -- feel free to PR others)
 
 ## contact
 
