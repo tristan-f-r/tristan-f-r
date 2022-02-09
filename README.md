@@ -1,6 +1,6 @@
-# hi im leo
+# welcome
 
-i love rust, kotlin, and svelte, and occasionally make mini apps when im bored.
+i love rust, kotlin, and svelte, and occasionally making mini apps.
 
 working on https://github.com/Minestom and https://github.com/Project-Cepi
 
