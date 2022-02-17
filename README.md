@@ -1,6 +1,7 @@
-# welcome
+# welcome to my Page!
+[![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
-i love rust, kotlin, and svelte, and occasionally making mini apps.
+I love rust, kotlin, and svelte, and occasionally making mini apps.
 
 working on https://github.com/Minestom and https://github.com/Project-Cepi
 
@@ -13,4 +14,6 @@ mini projects:
 ## contact
 
 You can find me at my discord (LeoDog896#0675)
-or at leodog896@gmail.com
+or at leodog896@gmail.com.
+
+if I don't respond to either I'm probably dead, lost internet, or it's been less than a day.
