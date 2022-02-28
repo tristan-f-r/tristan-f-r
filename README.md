@@ -1,4 +1,4 @@
-# welcome to my Page!
+# 👋 Hello!
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
 I love rust, kotlin, and svelte, and occasionally making mini apps.
