@@ -19,4 +19,6 @@ mini projects:
 You can find me at my discord (LeoDog896#0675)
 or at leodog896@gmail.com.
 
-if I don't respond to either I'm probably dead, lost internet, or it's been less than a day.
+If you're making anything and need help that you've seen me do in my projects, feel free to contact me!
+
+If I don't respond to either I'm probably dead, lost internet, or it's been less than a day.
