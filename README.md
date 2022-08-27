@@ -1,7 +1,7 @@
-# 👋 Hello!
+# 👋 Welcome
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
-I love rust, kotlin, and svelte.
+I love rust, kotlin, robust type checking, flutter, and svelte.
 
 featured project:
 - https://github.com/LeoDog896/deno-outdated Updates outdated deno dependencies
