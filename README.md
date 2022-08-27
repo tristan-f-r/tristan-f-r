@@ -6,7 +6,7 @@ I love rust, kotlin, and svelte.
 featured project:
 - https://github.com/LeoDog896/deno-outdated Updates outdated deno dependencies
 
-website: https://github.com/LeoDog896/webpage
+website: https://leodog896.com
 
 ## contact
 
