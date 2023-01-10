@@ -1,8 +1,6 @@
-# leo
+# leo 🍊
 
-i love ferrets
-
-favourite languages are rust and typescript
+favourite languages: rust, typescript, ferret (not a language)
 
 ## contact
 
