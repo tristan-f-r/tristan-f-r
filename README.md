@@ -1,6 +1,8 @@
 # leo 🍊
 
-favourite languages: rust, typescript, ferret (not a language)
+favourite languages: rust, typescript, ??
+
+featured project: https://github.com/LeoDog896/ferret_api
 
 ## contact
 
