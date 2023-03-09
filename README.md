@@ -1,8 +1,6 @@
-# leo 🍊
+# [leo](https://leodog896.com) 🍊
 
-favourite languages: rust, typescript, ??
-
-featured project: https://github.com/LeoDog896/ferret_api
+favourites: rust, typescript, ferrets
 
 *psst: if you see my github with empty (or README + LICENSE only) repositories, those are future ideas I have.
 
@@ -11,3 +9,6 @@ featured project: https://github.com/LeoDog896/ferret_api
 - discord: LeoDog896#0675
 - email: leodog896@gmail.com
 - stackoverflow: [LeoDog896](https://stackoverflow.com/users/7589775/leodog896)
+
+if you want to reach me quickly, send a message to me via Discord.
+Otherwise, I should respond to important emails with a max period of a week.
