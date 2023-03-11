@@ -1,6 +1,6 @@
 # [leo](https://leodog896.com) 🍊
 
-favourites: rust, typescript, ferrets
+favorites: rust, typescript, ferrets
 
 *psst: if you see my github with empty (or README + LICENSE only) repositories, those are future ideas I have.
 
