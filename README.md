@@ -6,7 +6,7 @@ favourites: rust, typescript, ferrets
 
 ## platforms
 
-- discord: [LeoDog896#0675](https://discord.com/users/208734037018279937)
+- discord: [@LeoDog896](https://discord.com/users/208734037018279937)
 - email: leodog896@gmail.com
 - stackoverflow: [LeoDog896](https://stackoverflow.com/users/7589775/leodog896)
 
