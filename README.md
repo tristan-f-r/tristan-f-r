@@ -1,4 +1,4 @@
-# [leo](https://leodog896.com) 🍊
+# [tristan](https://leodog896.com) 🍊
 
 favourites: [rust](https://www.rust-lang.org/), [typescript](https://www.typescriptlang.org/), [ferrets](https://leodog896.github.io/ferret_api/business)
 
