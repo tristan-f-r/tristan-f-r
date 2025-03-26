@@ -9,7 +9,7 @@ favourites: [rust](https://www.rust-lang.org/), [typescript](https://www.typescr
 ## platforms
 
 - discord: [@tristan.f.r](https://discord.com/users/208734037018279937)
-- email: leodog896@gmail.com
+- email: pub.tristanf@gmail.com
 - [StackOverflow](https://stackoverflow.com/users/7589775/tristan-f-r)
 
 if you want to reach me quickly, message me via Discord.
