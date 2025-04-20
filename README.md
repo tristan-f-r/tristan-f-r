@@ -7,7 +7,4 @@ favourites: [rust](https://www.rust-lang.org/), [typescript](https://www.typescr
 > [My catalogue](https://leodog896.github.io) will have a more sorted and fair list.
 
 
-i am reachable by email: pub.tristanf@gmail.com
-
-if you want to reach me quickly, message me via Discord.
-otherwise, I should respond to essential emails within a week.
+i am reachable by email: pub.tristanf@gmail.com or by carrier pigeon (email me for coordinates)
